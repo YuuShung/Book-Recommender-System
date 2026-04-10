@@ -1,0 +1,21 @@
+book_id,title,authors,publisher,average_rating,num_pages,description,combined_features
+1,The Great Gatsby,F. Scott Fitzgerald,Scribner,4.2,180,No description available,the great gatsby f scott fitzgerald scribner
+2,To Kill a Mockingbird,Harper Lee,Grand Central,4.3,281,No description available,to kill a mockingbird harper lee grand central
+3,1984,George Orwell,Signet,4.1,328,A dystopian novel about totalitarianism and surveillance society.,1984 george orwell signet
+4,Pride and Prejudice,Jane Austen,Penguin,4.4,432,The story of Elizabeth Bennet and Mr. Darcy in Georgian-era England.,pride and prejudice jane austen penguin
+5,The Hobbit,J.R.R. Tolkien,Houghton Mifflin,4.5,310,Bilbo Baggins embarks on an adventure with thirteen dwarves to reclaim their homeland.,the hobbit j r r tolkien houghton mifflin
+6,The Catcher in the Rye,J.D. Salinger,"Little, Brown",4.0,277,Holden Caulfield recounts his experiences in New York City after being expelled from prep school.,the catcher in the rye j d salinger little brown
+7,Lord of the Flies,William Golding,Penguin,3.8,224,A group of British boys stranded on an uninhabited island try to govern themselves.,lord of the flies william golding penguin
+8,Animal Farm,George Orwell,Signet,4.0,112,"A farm is taken over by its overworked, mistreated animals with a dream of equality.",animal farm george orwell signet
+9,The Alchemist,Paulo Coelho,HarperOne,4.2,208,A shepherd boy named Santiago travels from his homeland in Spain to the Egyptian desert.,the alchemist paulo coelho harperone
+10,Brave New World,Aldous Huxley,Signet,4.1,311,A futuristic society where people are genetically bred and pharmaceutically anesthetized.,brave new world aldous huxley signet
+11,The Lord of the Rings,J.R.R. Tolkien,Houghton Mifflin,4.6,1216,The epic fantasy tale of Frodo Baggins and his quest to destroy the One Ring.,the lord of the rings j r r tolkien houghton mifflin
+12,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Scholastic,4.5,309,A young wizard discovers his magical heritage and attends Hogwarts School of Witchcraft and Wizardry.,harry potter and the sorcerer s stone j k rowling scholastic
+13,The Chronicles of Narnia,C.S. Lewis,HarperCollins,4.3,767,Four children discover a magical world through an old wardrobe.,the chronicles of narnia c s lewis harpercollins
+14,The Handmaid's Tale,Margaret Atwood,Anchor,4.2,311,"A dystopian novel set in the Republic of Gilead, a totalitarian state.",the handmaid s tale margaret atwood anchor
+15,The Kite Runner,Khaled Hosseini,Riverhead Books,4.4,371,"A story of friendship, betrayal, and redemption set in Afghanistan.",the kite runner khaled hosseini riverhead books
+16,The Book Thief,Markus Zusak,Knopf,4.3,552,A young girl in Nazi Germany steals books and shares them with others.,the book thief markus zusak knopf
+17,The Giver,Lois Lowry,Houghton Mifflin,4.1,208,A young boy discovers the dark secrets of his seemingly perfect community.,the giver lois lowry houghton mifflin
+18,The Fault in Our Stars,John Green,Dutton Books,4.2,313,A teenage girl with cancer falls in love with a boy she meets at a support group.,the fault in our stars john green dutton books
+19,The Hunger Games,Suzanne Collins,Scholastic,4.3,374,"In a dystopian future, teenagers fight to the death in televised games.",the hunger games suzanne collins scholastic
+20,The Da Vinci Code,Dan Brown,Doubleday,3.9,689,A symbologist and cryptologist solve a murder mystery involving secret societies.,the da vinci code dan brown doubleday
